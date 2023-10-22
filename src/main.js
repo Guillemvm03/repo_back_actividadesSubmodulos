@@ -1,3 +1,4 @@
+console.log("Hello from server_submodulee");
 console.log('easy-mern-stack');
 console.log(`Node environment: ${process.env.NODE_ENV || 'development'}`);
 
